@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082136947149",
+    "firebase_url": "https://keen-philosophy-243409.firebaseio.com",
+    "project_id": "keen-philosophy-243409",
+    "storage_bucket": "keen-philosophy-243409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082136947149:android:2bcd7cd20382e17bd03c84",
+        "android_client_info": {
+          "package_name": "com.example.mymusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082136947149-jviom790cqpl8cvv8k57gphf87g6lasf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymusic",
+            "certificate_hash": "8145c02f0be4d9e33c98276a475d393fdefef6f0"
+          }
+        },
+        {
+          "client_id": "1082136947149-kan2dndqnkomd6pp4ge8o1n8qqcgqu3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWuOK_ClOq17NDHPKyxA5izKGdB20jn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082136947149-kan2dndqnkomd6pp4ge8o1n8qqcgqu3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
